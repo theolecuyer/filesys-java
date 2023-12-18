@@ -2,6 +2,7 @@ filesys-java
 A Command Line Directory Builder that simulates a PC directory system
 
 Commands usable:
+
 -create <fileName> This command creates a new file with the given filename. It will then read user input until a ~ is in the input.
 - cat <fileName> Prints out the contents of the given filename.
 - rm <filename> Removes the file with the given name from the current directory.
